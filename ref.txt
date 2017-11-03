@@ -1,0 +1,47 @@
+Agrawal, R., \& Srikant, R. (1994, September). Fast algorithms for mining association rules. In Proc. 20th int. conf. very large data bases, VLDB (Vol. 1215, pp. 487-499).
+Alberti, C. (2017, September). ``SyntaxNet.`` SyntaxNet: Neural Models of Syntax, TensorFlow toolkit, Github, github.com/tensorflow/models/tree/master/research/syntaxnet. Retrieved October 6, 2017.
+Andrews, J. L., \& McNicholas, P. D. (2012). Model-based clustering, classification, and discriminant analysis via mixtures of multivariate t-distributions. Statistics and Computing, 22(5), 1021-1029.
+Andrews, J. L., \& McNicholas, P. D. (2013). Model-based clustering and classification with the multivariate t-distribution.
+Avraham, O., \& Goldberg, Y. (2017). The Interplay of Semantics and Morphology in Word Embeddings. arXiv preprint arXiv:1704.01938.
+Bansal, A. (2014). ``Feature Extraction Of Product Reviews.``, 1.0, GitHub, github.com/akshaybansal/FEATURE-EXTRACTION-OF-PRODUCT-REVIEWS-. Retrieved October 6, 2017.
+Bird, S., Klein, E., \& Loper, E. (2009). Natural language processing with Python: analyzing text with the natural language toolkit.``  O`Reilly Media, Inc.".
+Bonelli, S. (2016). ``Local Consumer Review Survey 2016 | The Impact Of Online Reviews.`` BrightLocal, Bright Little Light Ltd. Retrieved October 6, 2017.
+Borth, D., Ji, R., Chen, T., Breuel, T., \& Chang, S. F. (2013). Large-scale visual sentiment ontology and detectors using adjective noun pairs. In Proceedings of the 21st ACM international conference on Multimedia (pp. 223-232). ACM.
+Britz, D. (2017). ``Convolutional Neural Network for Text Classification in Tensorflow.`` Cnn-Text-Classification-Tf, 1.0, GitHub, github.com/dennybritz/cnn-text-classification-tf. Retrieved October 6, 2017.
+Chen, D., \& Manning, C. (2014). A fast and accurate dependency parser using neural networks. In Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP) (pp. 740-750).
+Das, A., \& Kannan, A. (2014). Discovering Topical Aspects in Microblogs. In COLING (pp. 860-871).
+Ejieh, C. (2016). Aspect-based opinion mining of product reviews in microblogs using most relevant frequent clusters of terms (Doctoral dissertation, University of Windsor (Canada)).
+Eke, N. (2017, August). ``Feature Based Opinion Mining.`` GitHub, 1.0, Retrieved October 6, 2017.
+Go, A., Bhayani, R., \& Huang, L. (2009). Twitter sentiment classification using distant supervision. CS224N Project Report, Stanford, 1(2009), 12.
+Ghanimifard, M. (2017). ``Composing adjective-Noun into metaphor-Literal vectors space.`` Adjective-Noun composition learning to detect metaphoricity, Centre for Linguistic Theory and Studies in Probability, github.com/GU-CLASP/anvec-metaphor/blob/master/composing\_adjective-noun.ipynb. Retrieved October 6, 2017.
+Honnibal, M. (2013). ``Redshift.`` Transition-Based statistical parser, 92.18, SpaCy, 14 Feb. Retrieved October 6, 2017.
+Honnibal, M. (2017). ``SpaCy models.`` Industrial-Strength Natural Language Processing in Python, 2.0.0, SpaCy, spacy.io/docs/usage/models. Retrieved October 6, 2017.
+Hu, M., \& Liu, B. (2004). Mining and summarizing customer reviews. In Proceedings of the tenth ACM SIGKDD international conference on Knowledge discovery and data mining(pp. 168-177). ACM.
+Joulin, A., Grave, E., Bojanowski, P., \& Mikolov, T. (2016). Bag of tricks for efficient text classification. arXiv preprint arXiv:1607.01759.
+Kim, Y. (2014). Convolutional neural networks for sentence classification. arXiv preprint arXiv:1408.5882.
+Ku, L. W., Liang, Y. T., \& Chen, H. H. (2006). Opinion extraction, summarization and tracking in news and blog corpora. In (AAAI-CAAW).
+Le, Q., \& Mikolov, T. (2014). Distributed representations of sentences and documents. In Proceedings of the 31st International Conference on Machine Learning (ICML-14) (pp. 1188-1196).
+Liu, Y., Liu, Z., Chua, T. S., \& Sun, M. (2015). Topical Word Embeddings. In AAAI (pp. 2418-2424).
+Loria, S. (2017). ``TextBlob.`` TextBlob: Simplified Text Processing, 0.13.0, textblob.readthedocs.io/en/dev/. Retrieved October 6, 2017.
+Maaten, L. V. D.(2016). ``t-Distributed Stochastic Neighbor Embedding Wins Merck Viz Challenge.`` No Free Hunch, Kaggle, blog.kaggle.com/2012/11/02/t-distributed-stochastic-neighbor-embedding-wins-merck-viz-challenge/. Retrieved October 6, 2017.
+Maaten, L. V. D.(2015). ``t-SNE.`` GitHub Blog, lvdmaaten.github.io/tsne/. Retrieved October 6, 2017
+Mikolov, T., Chen, K., Corrado, G., \& Dean, J.  (2013a). ``GoogleNews 300 dimensional word vectors.`` https://drive.google.com/File/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/Edit, 12 Dec. Retrieved October 6, 2017.
+Mikolov, T., Chen, K., Corrado, G., \& Dean, J. (2013b). Efficient estimation of word representations in vector space. arXiv preprint arXiv:1301.3781.
+Mikolov, T., Sutskever, I., \& Le, Q. (2013c). ``Learning the meaning behind words.`` Google Open Source Blog, Google Knowledge, Retrieved October 6, 2017.
+Moghaddam, S., \& Ester, M. (2010). Opinion digger: an unsupervised opinion miner from unstructured product reviews. In Proceedings of the 19th ACM international conference on Information and knowledge management (pp. 1825-1828). ACM.
+Moody, C. E. (2016). Mixing Dirichlet Topic Models and Word Embeddings to Make lda2vec. arXiv preprint arXiv:1605.02019.
+Pang, B., \& Lee, L. (2004). A sentimental education: Sentiment analysis using subjectivity summarization based on minimum cuts. In Proceedings of the 42nd annual meeting on Association for Computational Linguistics (p. 271). Association for Computational Linguistics.
+Pang, B., \& Lee, L. (2008). Opinion mining and sentiment analysis. Foundations and Trends in Information Retrieval, 2(1–2), 1-135.
+Popescu, A. M., \& Etzioni, O. (2007). Extracting product features and opinions from reviews. In Natural language processing and text mining (pp. 9-28). Springer London.
+Ren, J., \& Wang. H. (2007). Feature-based Customer Review Mining.
+Sänger, M., Leser, U., \& Klinger, R. (2017). Fine-grained Opinion Mining from Mobile App Reviews with Word Embedding Features. In International Conference on Applications of Natural Language to Information Systems (pp. 3-14). Springer, Cham.
+Scaffidi, C., Bierhoff, K., Chang, E., Felker, M., Ng, H., \& Jin, C. (2007). Red Opal: product-feature scoring from reviews. In Proceedings of the 8th ACM conference on Electronic commerce(pp. 182-191). ACM.
+Shrestha, K. (2016). 50 Stats You Need to Know About Online Reviews. Vendasta. Retrieved June 11 2017.
+Smilkov, D. (2016). ``Embedding projector - visualization of high-Dimensional data.`` Embedding projector - visualization of high-Dimensional data, TensorFlow Big Picture group. Retrieved October 6, 2017.
+Speer, R., Chin, J., \& Havasi, C. (2017). ConceptNet 5.5: An Open Multilingual Graph of General Knowledge. In AAAI (pp. 4444-4451).
+Spina, D., Meij, E., De Rijke, M., Oghina, A., Bui, M. T., \& Breuss, M. (2012). Identifying entity aspects in microblog posts. In Proceedings of the 35th international ACM SIGIR conference on Research and development in information retrieval (pp. 1089-1090). ACM.
+Trask, A., Michalak, P., \& Liu, J. (2015). sense2vec-A fast and accurate method for word sense disambiguation in neural word embeddings. arXiv preprint arXiv:1511.06388.
+Turney, P. D. (2001). Mining the Web for Synonyms: PMI-IR versus LSA on TOEFL. In Procs. of the Twelfth European Conference on Machine Learning (ECML-2001), pages 491– 502, Freiburg, Germany
+Wang, H., Lu, Y., \& Zhai, C. (2011). Latent aspect rating analysis without aspect keyword supervision. In Proceedings of the 17th ACM SIGKDD international conference on Knowledge discovery and data mining (pp. 618-626). ACM.
+Wang, H., Lu, Y., \& Zhai, C. (2010). Latent aspect rating analysis on review text data: a rating regression approach. In Proceedings of the 16th ACM SIGKDD international conference on Knowledge discovery and data mining (pp. 783-792). ACM.
+Zhao, W. X., Jiang, J., He, J., Song, Y., Achananuparp, P., Lim, E. P., \& Li, X. (2011). Topical keyphrase extraction from twitter. In Proceedings of the 49th annual meeting of the association for computational linguistics: Human language technologies-volume 1(pp. 379-388). Association for Computational Linguistics.
